@@ -24,9 +24,9 @@ def advanced_challenge():
         total += val
         
     return total
-result = advanced_challenge()
 
 
 
 
-result값을 이메일로 보내주세요. 기다리겠습니다...
+
+total값을 이메일로 보내주세요. 기다리겠습니다...
